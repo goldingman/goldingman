@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/f62071ab-29a1-446c-9c9d-8247bc408c30)# Hi there! I'm Goldingman! 👋
+# Hi there! I'm Goldingman! 👋
 ## Senior Full Stack Developer | React, Node.js, Python, Django, MySQL
 
 I'm a Senior Full Stack Developer with over 7 years of experience in building scalable web applications. I specialize in front-end frameworks like React and Next.js, and back-end technologies including Node.js, Django, and Python. I’m passionate about delivering efficient, clean code and improving the user experience.
