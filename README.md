@@ -25,9 +25,7 @@ I'm a Senior Full Stack Developer with over 7 years of experience in building sc
 
 
 ### Get in touch:
-- [LinkedIn](link)
-- [Twitter](link)
 - Email: [goldingman814@outlook.com](mailto:goldingman814@outlook.com)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=goldingman&show_icons=true&count_private=true&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ApexcupDeveloper&show_icons=true&count_private=true&theme=dark)
 
