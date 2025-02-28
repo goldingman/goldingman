@@ -12,7 +12,7 @@ I'm a Senior Full Stack Developer with over 7 years of experience in building sc
 ### Some of my Projects:
 - [Thumbtack](https://www.thumbtack.com/![image](https://github.com/user-attachments/assets/ca2209ab-5e51-4a10-991f-5766bf08e72e)
 ): Online Job Searching Platform.
-- [VNTR]([link](https://www.vntr.vc/)![image](https://github.com/user-attachments/assets/2fefeba4-e1ce-421a-9a2a-a925851ad81c)
+- [VNTR](https://www.vntr.vc/![image](https://github.com/user-attachments/assets/2fefeba4-e1ce-421a-9a2a-a925851ad81c)
 ): Investors community platform for Real Estate
 
 ### Professional Experience:
@@ -27,5 +27,5 @@ I'm a Senior Full Stack Developer with over 7 years of experience in building sc
 ### Get in touch:
 - Email: [goldingman814@outlook.com](mailto:goldingman814@outlook.com)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ApexcupDeveloper&show_icons=true&count_private=true&theme=dark)
+
 
