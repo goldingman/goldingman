@@ -1,5 +1,5 @@
 # Hi there! I'm Goldingman! 👋
-## Senior Full Stack Developer | React, Node.js, Python, Django, MySQL
+## Senior Full Stack Developer
 
 I'm a Senior Full Stack Developer with over 7 years of experience in building scalable web applications. I specialize in front-end frameworks like React and Next.js, and back-end technologies including Node.js, Django, and Python. I’m passionate about delivering efficient, clean code and improving the user experience.
 
