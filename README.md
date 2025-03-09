@@ -15,17 +15,5 @@ I'm a Senior Full Stack Developer with over 7 years of experience in building sc
 - [VNTR](https://www.vntr.vc/![image](https://github.com/user-attachments/assets/2fefeba4-e1ce-421a-9a2a-a925851ad81c)
 ): Investors community platform for Real Estate
 
-### Professional Experience:
-- **Hexmount** — Senior Full Stack Developer  
-  _2017-2023_
-  - Led a team of 5 developers to build a microservices-based architecture for a high-traffic e-commerce platform.
-  - Developed APIs with Node.js and integrated third-party services.
-  - AI integration.
-  - Mobile application development.
-
-
-### Get in touch:
-- Email: [goldingman814@outlook.com](mailto:goldingman814@outlook.com)
-
 
 
