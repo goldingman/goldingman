@@ -4,8 +4,8 @@
 I'm a Senior Full Stack Developer with over 7 years of experience in building scalable web applications. I specialize in front-end frameworks like React and Next.js, and back-end technologies including Node.js, Django, and Python. I’m passionate about delivering efficient, clean code and improving the user experience.
 
 ### My Tech Stack:
-- **Frontend:** React, Next.js, React Native, TypeScript, JavaScript
-- **Backend:** Node.js, Python, Django, Express
+- **Frontend:** React, Next.js, Vue.js, React Native, TypeScript, JavaScript
+- **Backend:** Node.js, Python, Django, Flask, FastAPI, Express
 - **Database:** MySQL, MongoDB, PostgreSQL
 - **Dev Tools:** Git, Docker, AWS, CI/CD
 
